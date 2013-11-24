@@ -32,4 +32,12 @@ $(document).ready(function () {
 	setTimeout(function () {
 		$('body').removeClass('init');
 	}, 500);
+
+	$(".nav-item:first").addClass("skipto");
+	$(".nav-item:first a").focus(function() {
+		$(".nav-item:first").addClass("focused");
+	});
+	$(".nav-item:first a").blur(function() {
+		$(".nav-item:first").removeClass("focused");
+	});
 });

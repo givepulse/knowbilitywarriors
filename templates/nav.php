@@ -1,6 +1,9 @@
 <nav>
 	<ul class="nav-menu">
 		<li class="nav-item">
+			<a href="#mainContent">Skip to Main Content</a>
+		</li>
+		<li class="nav-item">
 			<a href="../home/">Home</a>
 		</li>
 		<li class="nav-item">

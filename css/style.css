@@ -72,6 +72,17 @@
 	padding: 0;
 }
 
+/* Skipto Link */
+.skipto {
+	position: absolute;
+	left: -1000px;
+}
+
+.skipto.focused {
+	right: 0;
+	left: auto;
+}
+
 /* Header */
 header img {
 	width: 100px;
