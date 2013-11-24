@@ -20,7 +20,7 @@
 	<img src="../images/aha_logo.png" alt="">
 </header>
 
-<main>
+<main id="mainContent" role="main" tabindex="-1">
 	<h2>Supporters and Partners</h2>
 
 	<ul>

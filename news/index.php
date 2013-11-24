@@ -20,7 +20,7 @@
 	<img src="../images/aha_logo.png" alt="AHA!">
 </header>
 
-<main>
+<main id="mainContent" role="main" tabindex="-1">
 	<h2><abbr title="Accessible Housing Austin">AHA</abbr>! in the News</h2>
 
 	<ul>

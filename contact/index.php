@@ -20,7 +20,7 @@
 	<img src="../images/aha_logo.png" alt="AHA!">
 </header>
 
-<main class="vcard">
+<main class="vcard" id="mainContent" role="main" tabindex="-1">
 	<h2>Contact Us</h2>
 
 	<p class="fn">Isabelle Headrick</p>

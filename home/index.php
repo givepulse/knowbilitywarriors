@@ -20,7 +20,7 @@
 	<img src="../images/aha_logo.png" alt="AHA!">
 </header>
 
-<main>
+<main id="mainContent" role="main" tabindex="-1">
 	<h2>
 		Accessible, Affordable, and Integrated Housing for
 		People with Disabilities in Austin, Texas

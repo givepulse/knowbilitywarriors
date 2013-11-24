@@ -20,7 +20,7 @@
 	<img src="../images/aha_logo.png" alt="AHA!">
 </header>
 
-<main>
+<main id="mainContent" role="main" tabindex="-1">
 	<p>
 		With a 73% unemployment rate, people with disabilities are overrepresented in Austin’s
 		low-income population. The fair market rent for a 2-bedroom apartment in Austin is
