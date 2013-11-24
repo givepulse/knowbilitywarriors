@@ -17,7 +17,7 @@
 
 <header>
 	<h1>Accessible Housing Austin!</h1>
-	<img src="../images/aha_logo.png" alt="">
+	<img src="../images/aha_logo.png" alt="AHA!">
 </header>
 
 <main>
