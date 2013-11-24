@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Accessible Housing Austin! AHA!</title>
+<title>Board &amp; Staff</title>
 <link rel="stylesheet" href="../css/style.css">
 <script type="text/javascript" src="../js/jquery-1.10.2.min.js"></script>
 <script type="text/javascript" src="../js/jquery-accessibleMegaMenu.js"></script>
@@ -16,11 +16,13 @@
 <?php include '../templates/nav.php'; ?>
 
 <header>
-	<h1>Accessible Housing Austin!</h1>
-	<img src="../images/aha_logo.png" alt="AHA!">
+	<h1>
+		<img src="../images/aha_logo.png" alt="Accessible Housing Austin! AHA!">
+	</h1>
 </header>
 
 <main id="mainContent" role="main" tabindex="-1">
+	<h2>Board &amp; Staff</h2>
 	<p>
 		With a 73% unemployment rate, people with disabilities are overrepresented in Austin’s
 		low-income population. The fair market rent for a 2-bedroom apartment in Austin is
