@@ -21,7 +21,7 @@
 			<a href="../housing/">Our Housing</a>
 		</li>
 		<li class="nav-item">
-			<a href="../stories/">Our Stories</a>
+			<a href="../ourstories/">Our Stories</a>
 		</li>
 		<li class="nav-item">
 			<a href="../facts/">Learn More</a>
