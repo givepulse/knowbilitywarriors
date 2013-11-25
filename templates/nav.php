@@ -7,7 +7,7 @@
 			<a href="../home/">Home</a>
 		</li>
 		<li class="nav-item">
-			<a href="../about/">About <abbr title="Accessible Housing Austin">AHA</abbr>!</a>
+			<a href="../story/">About <abbr title="Accessible Housing Austin">AHA</abbr>!</a>
 			<div class="sub-nav">
 				<ul class="sub-nav-group">
 					<li><a href="../story/">The Story of
