@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Accessible Housing Austin! AHA!</title>
+<title>The Story of AHA!</title>
 <link rel="stylesheet" href="../css/style.css">
 <script type="text/javascript" src="../js/jquery-1.10.2.min.js"></script>
 <script type="text/javascript" src="../js/jquery-accessibleMegaMenu.js"></script>
@@ -16,11 +16,27 @@
 <?php include '../templates/nav.php'; ?>
 
 <header>
-	<h1>Accessible Housing Austin!</h1>
-	<img src="../images/aha_logo.png" alt="">
+	<h1>
+		<img src="../images/aha_logo.png" alt="Accessible Housing Austin! AHA!">
+	</h1>
 </header>
 
-<main>
+<main id="mainContent" role="main" tabindex="-1">
+	<h2>The Story of AHA!</h2>
+
+	<img src="../images/fairhousinglogo.png" alt="Equal Housing Opportunity">
+
+	<img src="../images/elainna.jpg" alt="Young woman smiling">
+
+	<aside role="complementary">
+		<p>$700
+		The average Social Security received by a person with a disability each month</p>
+		<p>$1,100
+		The average monthly rent for a two-bedroom apartment in Austin</p>
+		<p>Source: <a href="http://average-rent.findthedata.org/">FindtheData</a>. Average Apartment Rent,
+		Refine Search terms: “787” (zip code), travis (county), Texas (state)</p>
+	</aside>
+
 	<p>
 		With a 73% unemployment rate, people with disabilities are overrepresented in Austin’s
 		low-income population. The fair market rent for a 2-bedroom apartment in Austin is

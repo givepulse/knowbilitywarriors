@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Accessible Housing Austin! AHA!</title>
+<title>AHA! in the News</title>
 <link rel="stylesheet" href="../css/style.css">
 <script type="text/javascript" src="../js/jquery-1.10.2.min.js"></script>
 <script type="text/javascript" src="../js/jquery-accessibleMegaMenu.js"></script>
@@ -16,11 +16,12 @@
 <?php include '../templates/nav.php'; ?>
 
 <header>
-	<h1>Accessible Housing Austin!</h1>
-	<img src="../images/aha_logo.png" alt="">
+	<h1>
+		<img src="../images/aha_logo.png" alt="Accessible Housing Austin! AHA!">
+	</h1>
 </header>
 
-<main>
+<main id="mainContent" role="main" tabindex="-1">
 	<h2><abbr title="Accessible Housing Austin">AHA</abbr>! in the News</h2>
 
 	<ul>

@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Accessible Housing Austin! AHA!</title>
+<title>Apply for Housing</title>
 <link rel="stylesheet" href="../css/style.css">
 <script type="text/javascript" src="../js/jquery-1.10.2.min.js"></script>
 <script type="text/javascript" src="../js/jquery-accessibleMegaMenu.js"></script>
@@ -16,11 +16,12 @@
 <?php include '../templates/nav.php'; ?>
 
 <header>
-	<h1>Accessible Housing Austin!</h1>
-	<img src="../images/aha_logo.png" alt="">
+	<h1>
+		<img src="../images/aha_logo.png" alt="Accessible Housing Austin! AHA!">
+	</h1>
 </header>
 
-<main>
+<main id="mainContent" role="main" tabindex="-1">
 	<h2>Apply for Housing</h2>
 
 	<p><abbr title="Accessible Housing Austin">AHA</abbr>! is currently accepting applications for our waiting list. Currently we only have 2- and 3-bedroom homes, although we are accepting applications for 1-bedroom homes for the future.</p>

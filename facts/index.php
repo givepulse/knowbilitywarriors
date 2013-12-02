@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Accessible Housing Austin! AHA!</title>
+<title>Facts About AHA!</title>
 <link rel="stylesheet" href="../css/style.css">
 <script type="text/javascript" src="../js/jquery-1.10.2.min.js"></script>
 <script type="text/javascript" src="../js/jquery-accessibleMegaMenu.js"></script>
@@ -16,11 +16,12 @@
 <?php include '../templates/nav.php'; ?>
 
 <header>
-	<h1>Accessible Housing Austin!</h1>
-	<img src="../images/aha_logo.png" alt="">
+	<h1>
+		<img src="../images/aha_logo.png" alt="Accessible Housing Austin! AHA!">
+	</h1>
 </header>
 
-<main>
+<main id="mainContent" role="main" tabindex="-1">
 	<h2>Facts About <abbr title="Accessible Housing Austin">AHA</abbr>!</h2>
 
 	<ul>
@@ -47,7 +48,7 @@
 		</ul></li>
 	</ul>
 
-	<p><a href="">Download white paper on AHA! here. (need link)</a></p>
+	<p><a href="../ahawhitepaper.pdf">Download white paper on AHA! here.</a></p>
 </main>
 
 <?php include '../templates/footer.php'; ?>
