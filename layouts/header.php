@@ -2,6 +2,7 @@
 <script type="text/javascript" src="../js/jquery-1.10.2.min.js"></script>
 <script type="text/javascript" src="../js/jquery-accessibleMegaMenu.js"></script>
 <script type="text/javascript" src="../js/script.js"></script>
+<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css">
 <!--[if lt IE 9]>
 <script type="text/javascript" src="../js/html5shiv.js"></script>
 <![endif]-->
