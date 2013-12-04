@@ -7,12 +7,16 @@
 <script type="text/javascript" src="../js/html5shiv.js"></script>
 <![endif]-->
 </head>
-<body>
-
-<?php include '../templates/nav.php'; ?>
-
-<header>
-	<h1>
-		<img src="../images/aha_logo.png" alt="Accessible Housing Austin! AHA!">
-	</h1>
-</header>
+<body class="container">
+<div class="row">
+    <div class="col-md-2">
+        <header>
+            <h1 style="margin-right:0; margin-left:0;">
+                <img id="aha-logo" src="../images/aha_logo.png" alt="Accessible Housing Austin! AHA!">
+            </h1>
+        </header>        
+    </div>
+    <div class="col-md-8" style="margin-top:5em;">
+        <?php include '../templates/nav.php'; ?>
+    </div>
+</div>
