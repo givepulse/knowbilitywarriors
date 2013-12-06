@@ -13,7 +13,7 @@
 		<li>Number of individuals: 24</li>
 		<li>Percent of homes serving people with disabilities: 100%</li>
 		<li>Percent of individuals with disabilities served (includes mobility-related, psychiatric, visual): 46%</li>
-		<li>Percent of individuals with mobility imapairments served: 25%</li>
+		<li>Percent of individuals with mobility impairments served: 25%</li>
 		<li>Average annual household income: $17,869</li>
 		<li>Average household income in relation to the Median Family Income for Austin: 26%</li>
 
