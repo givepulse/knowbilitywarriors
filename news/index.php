@@ -18,7 +18,7 @@
 		<li><a href="http://www.statesman.com/news/news/local/james-jt-templeton-1/nRhhT/">
 			Obituary for James “J.T.” Templeton: Longtime Advocate for those with Disabilities Died Monday (Austin American-Statesman)</a></li>
 		
-		<li><a href="http://www.youtube.com/watch?v=fFNdY5eEUEs&feature=youtu.be ">
+		<li><a href="http://www.youtube.com/watch?v=fFNdY5eEUEs&amp;feature=youtu.be ">
 			Keep Austin Affordable-Disabled Advocates (KEYE TV)</a></li>
 		
 		<li><a href="http://www.myfoxaustin.com/story/23374425/voters-to-decide-on-affordable-housing-bond">
