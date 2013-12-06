@@ -11,7 +11,7 @@
 	<h2>Our Stories</h2>
 
 	<h3>Meet Linda</h3>
-	<iframe width="560" height="315" src="//www.youtube.com/embed/rgu1jm-_ApI" frameborder="0" allowfullscreen></iframe>
+	<iframe width="560" height="315" src="//www.youtube.com/embed/rgu1jm-_ApI" allowfullscreen></iframe>
 
 	<h3>Meet Elainna</h3>
 	<img src="../images/elainna.jpg" alt="Young woman smiling">
