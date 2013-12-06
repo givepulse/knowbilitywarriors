@@ -90,6 +90,9 @@
 
 /* Main Content Styles */
 
+div > h1 {
+    padding-bottom:1em;
+}
 main > img {
 	width: 300px;
 }

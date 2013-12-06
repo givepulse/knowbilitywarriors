@@ -6,8 +6,9 @@
 <?php include '../layouts/header.php'; ?>
 
 <main id="mainContent" role="main" tabindex="-1">
-	<h1>Facts About <abbr title="Accessible Housing Austin">AHA</abbr>!</h1>
-
+    <div>
+        <h1>Facts About <abbr title="Accessible Housing Austin">AHA</abbr>!</h1>
+    </div>
 	<ul>
 		<li>Number of households served with affordable housing: 7 and growing</li>
 		<li>Number of individuals: 24</li>
@@ -32,7 +33,7 @@
 		</ul></li>
 	</ul>
 
-	<p><a href="../ahawhitepaper.pdf">Download white paper on AHA! here.</a></p>
+	<p><a href="../ahawhitepaper.pdf"><span class="glyphicon glyphicon-book""></span> Download white paper on AHA! here.</a></p>
 </main>
 
 <?php include '../templates/footer.php'; ?>

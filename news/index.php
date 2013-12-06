@@ -6,8 +6,9 @@
 <?php include '../layouts/header.php'; ?>
 
 <main id="mainContent" role="main" tabindex="-1">
-	<h1><abbr title="Accessible Housing Austin">AHA</abbr>! in the News</h1>
-
+    <div>
+        <h1><abbr title="Accessible Housing Austin">AHA</abbr>! in the News</h1>
+    </div>
 	<ul>
 		<li><a href="http://www.statesman.com/news/lifestyles/christine-sands-disabled-daughters-elderly-mother-/nRTM4/">
 			Disabled daughters, elderly mother just want to be together (Austin American-Statesman)</a></li>

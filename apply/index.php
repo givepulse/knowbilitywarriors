@@ -6,12 +6,13 @@
 <?php include '../layouts/header.php'; ?>
 
 <main id="mainContent" role="main" tabindex="-1">
-	<h1>Apply for Housing</h1>
+    <div>
+        <h1>Apply for Housing</h1>
+    </div>
+	<p class="alert alert-warning"><abbr title="Accessible Housing Austin">AHA</abbr>! is currently accepting applications for our waiting list. Currently we only have 2- and 3-bedroom homes, although we are accepting applications for 1-bedroom homes for the future.</p>
 
-	<p><abbr title="Accessible Housing Austin">AHA</abbr>! is currently accepting applications for our waiting list. Currently we only have 2- and 3-bedroom homes, although we are accepting applications for 1-bedroom homes for the future.</p>
-
-	<table>
-		<caption>We serve individuals and families with disabilities under 50% of Austin’s Median Family Income</caption>
+	<table class="table table-striped col-md-12">
+		<caption class="alert alert-info">We serve individuals and families with disabilities under 50% of Austin’s Median Family Income</caption>
 		<thead>
 			<tr>
 				<th scope="col">Household Size</th>
@@ -47,9 +48,12 @@
 			</tr>
 		</tbody>
 	</table>
-	<p>We prioritize households needing the accessibility modifications that a given available unit provides.</p>
-	<p>In order to receive an application, please call Isabelle Headrick at 512.442-6680</p>
-	<p>For a list of other housing resources, please contact the <a href="http://www.housing-rights.org/">Austin Tenants' Council</a>.</p>
+    <div style="padding-top:1em; text-align: center;">
+        <p>We prioritize households needing the accessibility modifications that a given available unit provides.</p>
+        <p>In order to receive an application,</p>
+        <p style="margin:1em 0;"><span class="alert alert-success text-success"><strong>please call <span class="glyphicon glyphicon-earphone"></span> Isabelle Headrick at 512.442-6680</strong></span></p>
+        <p>For a list of other housing resources, please contact the <a href="http://www.housing-rights.org/">Austin Tenants' Council</a>.</p>
+    </div>
 </main>
 
 <?php include '../templates/footer.php'; ?>

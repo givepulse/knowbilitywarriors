@@ -7,14 +7,12 @@
 
 <main id="mainContent" role="main" tabindex="-1">
     <div class="row">
-        <div class="col-md-4 col-md-offset-4">
-            <h1>The Story of AHA!</h1>
-        </div>
+        <h1>The Story of AHA!</h1>
     </div>
     <div class="col-md-4" style="">
         <img src="../images/fairhousinglogo.png" width="280px" alt="Equal Housing Opportunity">
 
-        <img src="../images/elainna.jpg" width="280px" style="margin-top:2em;" alt="Young woman smiling">
+        <img src="../images/elainna.jpg" width="280px" class="img-rounded" style="margin-top:2em;" alt="Young woman smiling">
     </div>
     <div class="col-md-8">
         <div style="margin: 2em 0;">

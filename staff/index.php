@@ -6,8 +6,9 @@
 <?php include '../layouts/header.php'; ?>
 
 <main id="mainContent" role="main" tabindex="-1">
-	
-    <h1>Board &amp; Staff</h1>
+    <div>
+        <h1>Board &amp; Staff</h1>
+    </div>
     <div class="clearfix">
         <div class="col-md-2">
             <img src="../images/stephaniethomas.jpg" width="150px" class="img-rounded" alt="">
