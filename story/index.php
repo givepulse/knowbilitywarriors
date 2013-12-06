@@ -18,7 +18,8 @@
     </div>
     <div class="col-md-8">
         <div style="margin: 2em 0;">
-            <aside role="complementary">
+            <aside role="complementary" aria-labelledby="figures">
+				<h2 id="figures">Figures</h2>
                 <p style="margin-bottom:1em;"><span class="label label-default" style="font-size:130%;">$700</span>
                 The average Social Security received by a person with a disability each month</p>
                 <p><span class="label label-default" style="font-size:130%;">$1,100</span>
