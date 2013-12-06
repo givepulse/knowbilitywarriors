@@ -41,7 +41,7 @@
 		<li>Levered door handles</li>
 		<li>Hardwood, tiled or laminate flooring</li>
 		<li>Roll-under sinks</li>
-		<li>Lowered countertops</li>
+		<li>Lowered counter-tops</li>
 		<li>Smoke detectors for people with hearing and visual impairments</li>
 		<li>Roll-in showers where possible</li>
 	</ul>
