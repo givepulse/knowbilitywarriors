@@ -6,7 +6,7 @@
 <?php include '../layouts/header.php'; ?>
 
 <main id="mainContent" role="main" tabindex="-1">
-	<h2>Contact Us</h2>
+	<h1>Contact Us</h1>
 
 	<address class="vcard">
 		<p class="fn">Isabelle Headrick</p>
@@ -22,7 +22,7 @@
 			<span class="postal-code">78702</span>
 		</p>
 		<p>
-			<a href="https://maps.google.com/maps?q=1640-A+E.+2nd+Street+Austin,+Texas+78702&ie=UTF-8&hq=&hnear=0x8644b5b3db004787:0xa0f53f2ef85678d,1640+E+2nd+St,+Austin,+TX+78702&gl=us&ei=Lo9yUsS0Le722QWnt4C4BA&ved=0CCwQ8gEwAA">MAP</a>
+			<a href="https://maps.google.com/maps?q=1640-A+E.+2nd+Street+Austin,+Texas+78702&amp;ie=UTF-8&amp;hq=&amp;hnear=0x8644b5b3db004787:0xa0f53f2ef85678d,1640+E+2nd+St,+Austin,+TX+78702&amp;gl=us&amp;ei=Lo9yUsS0Le722QWnt4C4BA&amp;ved=0CCwQ8gEwAA">MAP</a>
 			Our office is located at the northwest corner of Chalmers and 2nd Streets,
 			in the building with “ADAPT” on the front.
 		</p>

@@ -6,7 +6,7 @@
 <?php include '../layouts/header.php'; ?>
 
 <main id="mainContent" role="main" tabindex="-1">
-	<h2>Our Housing</h2>
+	<h1>Our Housing</h1>
 
 	<img src="../images/construction.jpg" alt="Couple in wheelchairs in front of lot under construction">
 	<img src="../images/housewithramp.jpg" alt="House with ramp">
@@ -33,7 +33,7 @@
 		supported by three pillars: Accessibility, Affordability, and Integration.
 	</p>
 
-	<h3>Accessibility = Dignity and Independence</h3>
+	<h2>Accessibility = Dignity and Independence</h2>
 	<h4>Our houses include the following features that allow our tenants to live comfortably and independently in their own homes:</h4>
 	<ul>
 		<li>Ramps</li>
@@ -41,12 +41,12 @@
 		<li>Levered door handles</li>
 		<li>Hardwood, tiled or laminate flooring</li>
 		<li>Roll-under sinks</li>
-		<li>Lowered countertops</li>
+		<li>Lowered counter-tops</li>
 		<li>Smoke detectors for people with hearing and visual impairments</li>
 		<li>Roll-in showers where possible</li>
 	</ul>
 
-	<h3>Affordability = Security and Stability</h3>
+	<h2>Affordability = Security and Stability</h2>
 	<p>
 		Our tenants are people with disabilities who would otherwise be priced out of the current
 		housing market or forced to live in institutions. Our housing alleviates the negative
@@ -55,7 +55,7 @@
 		burden of utility costs by making our houses energy efficient.
 	</p>
 
-	<h3>Integration = Participation in Community</h3>
+	<h2>Integration = Participation in Community</h2>
 	<p>
 		AHA!’s scattered-site model allows our tenants be part of a neighborhood. Living in higher
 		opportunity neighborhoods, they have access to shopping and public transportation; adults

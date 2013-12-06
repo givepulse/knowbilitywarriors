@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Accessible Housing Austin! AHA!</title>
+<title>Home - Accessible Housing Austin! AHA!</title>
 <?php include '../layouts/header.php'; ?>
 
 <main id="mainContent" role="main" tabindex="-1">
@@ -11,15 +11,15 @@
             <img src="../images/thompsons.jpg" width="400px" alt="Father with kids in front of house">
         </div>
         <div class="col-md-6">
-            <h2>
+            <h1>
                 Accessible, Affordable, and Integrated Housing for
                 People with Disabilities in Austin, Texas
-            </h2>
+            </h1>
             <form style="text-align:center;" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" class="donate">
                 <input type="hidden" name="cmd" value="_s-xclick">
                 <input type="hidden" name="hosted_button_id" value="99VH99YEQSKE8">
                 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="Donate via PayPal">
-                <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                <img alt="" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
             </form>
             <aside role="complementary" aria-label="Elainna's comments">
                 <blockquote>

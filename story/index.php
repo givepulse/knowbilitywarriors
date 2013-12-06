@@ -8,7 +8,7 @@
 <main id="mainContent" role="main" tabindex="-1">
     <div class="row">
         <div class="col-md-4 col-md-offset-4">
-            <h2>The Story of AHA!</h2>
+            <h1>The Story of AHA!</h1>
         </div>
     </div>
     <div class="col-md-4" style="">
@@ -18,7 +18,8 @@
     </div>
     <div class="col-md-8">
         <div style="margin: 2em 0;">
-            <aside role="complementary">
+            <aside role="complementary" aria-labelledby="figures">
+				<h2 id="figures">Figures</h2>
                 <p style="margin-bottom:1em;"><span class="label label-default" style="font-size:130%;">$700</span>
                 The average Social Security received by a person with a disability each month</p>
                 <p><span class="label label-default" style="font-size:130%;">$1,100</span>
@@ -28,7 +29,7 @@
             </aside>
         </div>
         <p>
-            With a <span class="label label-warning" style="font-size:110%;">73% unemployment rate</span>, people with disabilities are overrepresented in Austin’s
+            With a <span class="label label-warning" style="font-size:110%;">73% unemployment rate</span>, people with disabilities are over represented in Austin’s
             low-income population. The fair market rent for a 2-bedroom apartment in Austin is
             <span class="label label-warning" style="font-size:110%;">$1,050</span>; yet the average person with a disability receives less than <span class="label label-warning" style="font-size:110%;">$700 per month</span> in
             Social Security. This has resulted in a <span class="label label-danger" style="font-size:110%;">shortage of 6,000 homes</span> for low-income households

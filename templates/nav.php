@@ -38,7 +38,7 @@
 			<a href="../contact/">Contact Us</a>
 			<div class="sub-nav">
 				<ul class="sub-nav-group">
-					<li><a href="../gethousing/">Get Housing</a></li>
+					<li><a href="../apply/">Apply for Housing</a></li>
 				</ul>
 			</div>
 		</li>

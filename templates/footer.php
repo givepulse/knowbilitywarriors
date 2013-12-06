@@ -8,5 +8,7 @@
 			<span class="postal-code">78702</span>
 		</p>
 	</address>
+	<a href="http://knowbility.org/"><img src="../images/knowbility.png" alt="Knowbility" style="background-color: #000; color: #fff; border: solid #000 5px;"></a>
+	<p style="display: block;">Last modified: December 7, 2013</p>
 </footer>
 
