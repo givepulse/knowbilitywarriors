@@ -6,7 +6,7 @@
 <?php include '../layouts/header.php'; ?>
 
 <main id="mainContent" role="main" tabindex="-1">
-    <h2>Supporters and Partners</h2>
+    <h1>Supporters and Partners</h1>
     <div class="clearfix col-md-5" style="padding-left:0px;">
         <img src="../images/volunteers.jpg" class="img-rounded" width="400px" alt="Volunteers">
     </div>

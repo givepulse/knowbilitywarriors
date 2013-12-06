@@ -6,7 +6,7 @@
 <?php include '../layouts/header.php'; ?>
 
 <main id="mainContent" role="main" tabindex="-1">
-	<h2>Facts About <abbr title="Accessible Housing Austin">AHA</abbr>!</h2>
+	<h1>Facts About <abbr title="Accessible Housing Austin">AHA</abbr>!</h1>
 
 	<ul>
 		<li>Number of households served with affordable housing: 7 and growing</li>

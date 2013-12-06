@@ -6,7 +6,7 @@
 <?php include '../layouts/header.php'; ?>
 
 <main id="mainContent" role="main" tabindex="-1">
-	<h2>Apply for Housing</h2>
+	<h1>Apply for Housing</h1>
 
 	<p><abbr title="Accessible Housing Austin">AHA</abbr>! is currently accepting applications for our waiting list. Currently we only have 2- and 3-bedroom homes, although we are accepting applications for 1-bedroom homes for the future.</p>
 

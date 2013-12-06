@@ -6,19 +6,19 @@
 <?php include '../layouts/header.php'; ?>
 
 <main id="mainContent" role="main" tabindex="-1">
-	<h2>Donate</h2>
+	<h1>Donate</h1>
 
 	<img src="../images/kitchen.jpg" alt="Accessible kitchen">
 	<img src="../images/shower.jpg" alt="Roll-in shower">
 
-	<h3>By making a donation to AHA, you:</h3>
+	<h2>By making a donation to AHA, you:</h2>
 	<ul>
 		<li>help a low-income person with a disability live in a safe, decent home</li>
 		<li>facilitate the full integration of people with disabilities into the community</li>
 		<li>provide housing for someone transitioning out of a nursing home or other institution</li>
 		<li>create a more diverse and inclusive community</li>
 	</ul>
-	<h3>You can support AHA! financially in a number of ways:</h3>
+	<h2>You can support AHA! financially in a number of ways:</h2>
 	<ul>
 		<li>Direct a donation to support the accessibility, energy efficiency, and upkeep of an AHA! home</li>
 		<li>Donate a gift card from Home Depot, Lowes, Office Depot, Staples, etc.</li>
@@ -28,7 +28,7 @@
 		<li>Employer matching gifts: please contact us if your employer matches contributions</li>
 		<li>Direct a donation of stocks to AHA!</li>
 	</ul>
-	<h3>To make a tax-deductible donation, donate via PayPal or send a check to:</h3>
+	<h2>To make a tax-deductible donation, donate via PayPal or send a check to:</h2>
 	<address class="vcard">
 		<p class="org">Accessible Housing Austin!</p>
 		<p class="adr">

@@ -8,7 +8,7 @@
 <main id="mainContent" role="main" tabindex="-1">
     <div class="row">
         <div class="col-md-4 col-md-offset-4">
-            <h2>The Story of AHA!</h2>
+            <h1>The Story of AHA!</h1>
         </div>
     </div>
     <div class="col-md-4" style="">

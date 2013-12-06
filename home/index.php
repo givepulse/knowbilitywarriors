@@ -11,10 +11,10 @@
             <img src="../images/thompsons.jpg" width="400px" alt="Father with kids in front of house">
         </div>
         <div class="col-md-6">
-            <h2>
+            <h1>
                 Accessible, Affordable, and Integrated Housing for
                 People with Disabilities in Austin, Texas
-            </h2>
+            </h1>
             <form style="text-align:center;" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" class="donate">
                 <input type="hidden" name="cmd" value="_s-xclick">
                 <input type="hidden" name="hosted_button_id" value="99VH99YEQSKE8">

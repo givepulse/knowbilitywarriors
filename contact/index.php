@@ -6,7 +6,7 @@
 <?php include '../layouts/header.php'; ?>
 
 <main id="mainContent" role="main" tabindex="-1">
-	<h2>Contact Us</h2>
+	<h1>Contact Us</h1>
 
 	<address class="vcard">
 		<p class="fn">Isabelle Headrick</p>
