@@ -49,7 +49,7 @@
 	</table>
 	<p>We prioritize households needing the accessibility modifications that a given available unit provides.</p>
 	<p>In order to receive an application, please call Isabelle Headrick at 512.442-6680</p>
-	<p>For a list of other housing resources, download the <a href="http://www.housing-rights.org/PDF/GAHGAA_2012.pdf">Austin Tenants’ Council Guide to Affordable Housing</a>.</p>
+	<p>For a list of other housing resources, please contact the <a href="http://www.housing-rights.org/">Austin Tenants' Council</a>.</p>
 </main>
 
 <?php include '../templates/footer.php'; ?>
