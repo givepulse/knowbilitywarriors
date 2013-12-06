@@ -21,27 +21,27 @@
 		</thead>
 		<tbody>
 			<tr>
-				<th scope="row">1 person</td>
+				<th scope="row">1 person</th>
 				<td>$25,650</td>
 				<td>$2,138</td>
 			</tr>
 			<tr>
-				<th scope="row">2 people</td>
+				<th scope="row">2 people</th>
 				<td>$29,300</td>
 				<td>$2,442</td>
 			</tr>
 			<tr>
-				<th scope="row">3 people</td>
+				<th scope="row">3 people</th>
 				<td>$32,950</td>
 				<td>$2,746</td>
 			</tr>
 			<tr>
-				<th scope="row">4 people</td>
+				<th scope="row">4 people</th>
 				<td>$36,600</td>
 				<td>$3,050</td>
 			</tr>
 			<tr>
-				<th scope="row">5 people</td>
+				<th scope="row">5 people</th>
 				<td>$39,550</td>
 				<td>$3,296</td>
 			</tr>
