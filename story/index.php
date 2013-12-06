@@ -29,7 +29,7 @@
             </aside>
         </div>
         <p>
-            With a <span class="label label-warning" style="font-size:110%;">73% unemployment rate</span>, people with disabilities are overrepresented in Austin’s
+            With a <span class="label label-warning" style="font-size:110%;">73% unemployment rate</span>, people with disabilities are over represented in Austin’s
             low-income population. The fair market rent for a 2-bedroom apartment in Austin is
             <span class="label label-warning" style="font-size:110%;">$1,050</span>; yet the average person with a disability receives less than <span class="label label-warning" style="font-size:110%;">$700 per month</span> in
             Social Security. This has resulted in a <span class="label label-danger" style="font-size:110%;">shortage of 6,000 homes</span> for low-income households
