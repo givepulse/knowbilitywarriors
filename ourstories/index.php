@@ -10,9 +10,6 @@
 
 	<h1>Our Stories</h1>
 
-	<h2>Meet Linda</h2>
-	<iframe width="560" height="315" src="//www.youtube.com/embed/rgu1jm-_ApI" allowfullscreen></iframe>
-
 	<h2>Meet Elainna</h2>
 	<img src="../images/elainna.jpg" alt="Young woman smiling">
 	<p>
