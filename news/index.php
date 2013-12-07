@@ -13,7 +13,7 @@
         <img src="../images/housewithramp.jpg" width="300px" class="img-rounded" style="margin-top:1em; margin-left:0;" alt="House with ramp">
     </div>
     <div class="col-md-8">
-        <ul>
+        <ul id="news">
             <li><a href="http://www.statesman.com/news/lifestyles/christine-sands-disabled-daughters-elderly-mother-/nRTM4/">
                 Disabled daughters, elderly mother just want to be together (Austin American-Statesman) - (external link)</a></li>
 
