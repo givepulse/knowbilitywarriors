@@ -45,6 +45,9 @@
 		<li class="nav-item">
 			<a href="../donate/">Donate</a>
 		</li>
+		<li class="nav-item">
+			<a href="../site/">Site Map</a>
+		</li>
 	</ul>
 </nav>
 
