@@ -167,3 +167,9 @@ body > footer p {
 .text-success {
 	color: #266827;
 }
+
+
+/*Search styles*/
+td.gsc-clear-button { 
+    display: none !important; 
+} 
