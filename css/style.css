@@ -72,8 +72,18 @@ a {
 .sub-nav li {
 	display: block;
 	list-style-type: none;
-	margin: 0;
+	margin: 0.5em 0 0.5em;
 	padding: 0;
+}
+
+/*adding extra space for the news links*/
+#news li{
+    margin: .5em 0 0.5em;
+}
+
+/*adding extra space for the sitemap between li*/
+nav li {
+    margin: .5em 0 0.5em;
 }
 
 /* Skipto Link */
