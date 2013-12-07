@@ -15,7 +15,7 @@
                 Accessible, Affordable, and Integrated Housing for
                 People with Disabilities in Austin, Texas
             </h1>
-            <aside role="complementary" aria-label="Elainna's comments">
+            <aside role="complementary">
                 <blockquote>
                     <p>
                         This house is a home—it’s a home…The ramp is great because I can’t do stairs really

@@ -13,7 +13,7 @@
         <img src="../images/kitchen.jpg"  width="300px" class="img-rounded" alt="Accessible kitchen">
     </div>
     <div class="col-md-8" style="margin-bottom:2em;">
-        <aside role="complementary" aria-label="Linda's comments">
+        <aside role="complementary">
             <blockquote>
                 <p>
                     The roll-in shower gives us a sense of independence and freedom and peace of mind
