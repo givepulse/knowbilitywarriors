@@ -8,11 +8,9 @@
 <main id="mainContent" role="main" tabindex="-1">
     <h1>Supporters and Partners</h1>
     <div class="clearfix col-md-5" style="padding-left:0px;">
-        <img src="../images/volunteers.jpg" class="img-rounded" width="400px" alt="Volunteers">
+        <img src="../images/volunteers.jpg" class="img-rounded" width="380px" alt="Volunteers">
     </div>
     <div class="clearfix col-md-7" style="vertical-align:middle;">
-        <img src="../images/ilivehereigivehere.png" width="200px" alt="I live here. I give here.">
-        <img src="../images/frost.png" width="200px" alt="Frost Bank">
         <ul style="margin-top:1em;">
             <li><a href="http://www.adapt.org/">ADAPT of Texas</a>
             <li><a href="http://www.amerigroup.com/">Amerigroup</a>
@@ -27,7 +25,12 @@
             <li><a href="http://www.tsahc.org/donors-investors/texas-foundations-fund">Texas Foundations Fund</a>
             <li><a href="http://www.tsahc.org/">Texas State Affordable Housing Corporation</a>
         </ul>
-    </div>
+        <div style="text-align: center;">
+            <img src="../images/ilivehereigivehere.png" width="170px" alt="I live here. I give here.">
+            <img src="../images/frost.png" width="170px" alt="Frost Bank">
+            <a href="http://www.tsahc.org/"><img src="../images/tsahc.jpg" width="170px" alt="TSAH - Texas State Affordable Housing Corporation"></a>
+        </div>
+     </div>
 </main>
 
 <?php include '../templates/footer.php'; ?>

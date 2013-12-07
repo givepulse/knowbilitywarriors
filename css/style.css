@@ -6,6 +6,7 @@
 	margin: 0;
 	padding: 0;
 	z-index: 15;
+    font-size:10pt !important; /*specific size for nav*/
 }
 
 /* a top level navigation item in the mega menu */
@@ -88,11 +89,35 @@
 	width: 100px;
 }
 
+/*Body style - specific size for body*/
+body {
+    font-family: Calibri,arial,sans-serif !important;
+    line-height: 1.15 !important;
+    font-size: 9pt !important;;
+    letter-spacing: 1pt;
+}
+
+p .label {
+    padding: .1em .6em .1em !important;
+}
+
 /* Main Content Styles */
 
 div > h1 {
     padding-bottom:1em;
+    font-size: 20pt;
+    font-family: Century Gothic,arial,sans-serif;
 }
+
+div > h2 {
+    font-size: 16pt;
+}
+
+main > h2 {
+    font-family: Century Gothic,arial,sans-serif;
+    font-size: 16pt;
+}
+
 main > img {
 	width: 300px;
 }
@@ -103,7 +128,14 @@ blockquote {
 /* Footer Styles */
 body > footer {
 	text-align: center;
+    padding-top:1em;
+    font-family: Century Gothic,arial,sans-serif;
 }
 body > footer p {
 	display: inline;
+}
+
+.org {
+    color:#943634;
+    font-size:11pt;
 }

@@ -9,7 +9,6 @@
 	<h1 style="padding-bottom:1em;">Our Housing</h1>
     <div class="col-md-4">
         <img src="../images/construction.jpg" width="300px" class="img-rounded" alt="Couple in wheelchairs in front of lot under construction">
-        <img src="../images/housewithramp.jpg" width="300px" class="img-rounded" style="margin-top:1em;" alt="House with ramp">
         <img src="../images/house.jpg" width="300px" class="img-rounded" style="margin-top:1em;" alt="House with trees in the front yard">
     </div>
     <div class="col-md-8">
@@ -27,14 +26,14 @@
             affordable and integrated into a neighborhood.
         </p>
 
-        <p>
+        <p style="font-weight:bold;font-size:10pt;">
             AHA! believes that we all deserve to live in homes that are not only safe and decent but that
             allow us to exercise our rights to independence and dignity, that we can afford, and that
             allow our children and us to participate in our neighborhoods. For AHA!, the good home is
             supported by three pillars: Accessibility, Affordability, and Integration.
         </p>
 
-        <h2 class="alert alert-success">Accessibility = Dignity and Independence</h2>
+        <h2 class="alert alert-success"><abbr title="Accessibility = Dignity and Independence">Accessibility = Dignity and Independence</abbr></h2>
         <div style="margin:0 1em;">
             <h4>Our houses include the following features that allow our tenants to live comfortably and independently in their own homes:</h4>
             <ul>
@@ -49,7 +48,7 @@
             </ul>
         </div>
 
-        <h2 class="alert alert-success">Affordability = Security and Stability</h2>
+        <h2 class="alert alert-success"><abbr title="Affordability = Security and Stability">Affordability = Security and Stability</abbr></h2>
         <p style="margin:0 1em;">
             Our tenants are people with disabilities who would otherwise be priced out of the current
             housing market or forced to live in institutions. Our housing alleviates the negative
@@ -58,7 +57,7 @@
             burden of utility costs by making our houses energy efficient.
         </p>
 
-        <h2 class="alert alert-success">Integration = Participation in Community</h2>
+        <h2 class="alert alert-success"><abbr title="Integration = Participation in Community">Integration = Participation in Community</abbr></h2>
         <p style="margin:0 1em;">
             AHA!’s scattered-site model allows our tenants be part of a neighborhood. Living in higher
             opportunity neighborhoods, they have access to shopping and public transportation; adults

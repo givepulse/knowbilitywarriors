@@ -11,7 +11,7 @@
 <div class="row">
     <div class="col-md-2">
         <header style="margin: 1em 0;">
-			<img id="aha-logo" src="../images/aha_logo.png" alt="Accessible Housing Austin! AHA!">
+            <a href="/"><img id="aha-logo" src="../images/aha_logo.png" alt="Accessible Housing Austin! AHA!"></a>
         </header>        
     </div>
     <div class="col-md-8" style="margin-top:5em;">

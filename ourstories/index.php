@@ -10,9 +10,16 @@
     <h1>Our Stories</h1>
     <p style="width:50%;">We serve a diverse range of Austinites with disabilities, including adults and children with mobility impairments, visual impairment, chronic illness, and other physical and emotional disabilities.</p>
     
-    <div>
-        <h2>Meet Linda</h2>
-        <iframe width="560" height="315" src="//www.youtube.com/embed/rgu1jm-_ApI" allowfullscreen></iframe>
+    <h2>Meet Linda</h2>
+        <div class="row clearfix">
+            <div class="col-md-6">
+                <iframe width="560" height="315" src="//www.youtube.com/embed/rgu1jm-_ApI" allowfullscreen></iframe>
+            </div>
+            <div class="col-md-5">
+                <p class="lead">
+                    When Christine S. needed surgery, her twin adult daughters, Linda and Kathy, were forced to live in a nursing home until they all found affordable and accessible housing with Accessible Housing Austin!.
+                </p>
+            </div>
     </div>
     
     <h2>Meet Elainna</h2>
