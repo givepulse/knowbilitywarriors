@@ -1,4 +1,4 @@
-<footer>
+<footer role="contentinfo">
 	<address class="vcard">
 		<p class="org">Accessible Housing Austin!</p>
 		<p class="adr">

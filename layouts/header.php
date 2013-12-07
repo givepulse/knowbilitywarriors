@@ -10,7 +10,7 @@
 <body class="container">
 <div class="row">
     <div class="col-md-2">
-        <header style="margin: 1em 0;">
+        <header style="margin: 1em 0;" role="contentinfo">
 		<a href="../">
 			<img id="aha-logo" src="../images/aha_logo.png" alt="Accessible Housing Austin! AHA!">
 		</a>
