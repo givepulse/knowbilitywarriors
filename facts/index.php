@@ -32,7 +32,7 @@
 		</ul></li>
 	</ul>
 
-	<p><a href="../ahawhitepaper.pdf">Download white paper on AHA! here.</a></p>
+	<p><a href="../ahawhitepaper.pdf">Download white paper on AHA! here. (PDF - 434 kB)</a></p>
 </main>
 
 <?php include '../templates/footer.php'; ?>
