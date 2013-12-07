@@ -6,12 +6,14 @@
 <?php include '../layouts/header.php'; ?>
 
 <main id="mainContent" role="main" tabindex="-1">
-	<h1 style="padding-bottom:1em;">Our Housing</h1>
+    <div>
+        <h1 style="padding-bottom:1em;">Our Housing</h1>
+    </div>
     <div class="col-md-4">
         <img src="../images/construction.jpg" width="300px" class="img-rounded" alt="Couple in wheelchairs in front of lot under construction">
         <img src="../images/house.jpg" width="300px" class="img-rounded" style="margin-top:1em;" alt="House with trees in the front yard">
     </div>
-    <div class="col-md-8">
+    <div class="col-md-8" style="margin-bottom:2em;">
         <p>
             AHA!’s homes are integrated into neighborhoods around Austin. Our first two homes were
             received from and are dedicated to the memory of two ardent disability rights activists,
