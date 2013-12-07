@@ -12,7 +12,7 @@
 	<p class="alert alert-warning"><abbr title="Accessible Housing Austin">AHA</abbr>! is currently accepting applications for our waiting list. Currently we only have 2- and 3-bedroom homes, although we are accepting applications for 1-bedroom homes for the future.</p>
 
 	<table class="table table-striped col-md-12">
-		<caption class="alert alert-info">We serve individuals and families with disabilities under 50% of Austin’s Median Family Income</caption>
+		<caption class="alert alert-info" style="text-align:left;">We serve individuals and families with disabilities under 50% of Austin’s Median Family Income</caption>
 		<thead>
 			<tr>
 				<th scope="col">Household Size</th>
@@ -50,9 +50,9 @@
 	</table>
     <div style="padding-top:1em; text-align: center;">
         <p>We prioritize households needing the accessibility modifications that a given available unit provides.</p>
-        <p>In order to receive an application,</p>
-        <p style="margin:1em 0;"><span class="alert alert-success text-success"><strong>please call <span class="glyphicon glyphicon-earphone"></span> Isabelle Headrick at 512.442-6680</strong></span></p>
-        <p>For a list of other housing resources, please contact the <a href="http://www.housing-rights.org/">Austin Tenants' Council</a>.</p>
+        <p>In order To receive an application...</p>
+        <p style="margin:1em 0;"><span class="alert alert-success text-success" style="padding:0;"><strong>please call <span class="glyphicon glyphicon-earphone"></span> Isabelle Headrick at 512.442-6680</strong></span></p>
+        <p>For a list of other housing resources, please contact the <a href="http://www.housing-rights.org/" target="_blank">Austin Tenants' Council</a>.</p>
     </div>
 </main>
 

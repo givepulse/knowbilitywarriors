@@ -12,19 +12,20 @@
 	<ul>
 		<li>Number of households served with affordable housing: 7 and growing</li>
 		<li>Number of individuals: 24</li>
-		<li>Percent of homes serving people with disabilities: 100%</li>
+        <li>Percent of homes serving people with disabilities: 100%</li>
 		<li>Percent of individuals with disabilities served (includes mobility-related, psychiatric, visual): 46%</li>
 		<li>Percent of individuals with mobility impairments served: 25%</li>
+        <img src="../images/household_income.png" width="300px" style="margin:1em 0;" alt=""/>
 		<li>Average annual household income: $17,869</li>
 		<li>Average household income in relation to the Median Family Income for Austin: 26%</li>
-
+        <img src="../images/perc_by_race&ethn.png" width="300px" style="margin:1em 0;" alt=""/>
 		<li>Percentage by race/ethnicity: 
 		<ul>
 			 <li>Hispanic: 67% </li>
 			 <li>African American: 21% </li>
 			 <li>White: 13%</li>
 		</ul></li>
-
+        <img src="../images/perc_by_age.png" width="300px" style="margin:1em 0;" alt=""/>
 		<li>Percentage served by age:
 		<ul>
 			 <li>Under 18: 63%</li>
@@ -32,7 +33,7 @@
 			 <li>55 &amp; older: 8%</li>
 		</ul></li>
 	</ul>
-	<p><a href="../ahawhitepaper.pdf"><span class="glyphicon glyphicon-book""></span>Download white paper on AHA! here. (PDF - 434 kB)</a></p>
+	<p><a href="../ahawhitepaper.pdf"><span class="glyphicon glyphicon-book"></span> Download white paper on AHA! here. (PDF - 434 kB)</a></p>
 </main>
 
 <?php include '../templates/footer.php'; ?>
