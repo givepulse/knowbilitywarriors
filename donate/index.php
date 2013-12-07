@@ -57,7 +57,7 @@
         <h2>To make a tax-deductible donation, donate via PayPal or send a check to:</h2>
         <div style="margin-left:1em;">
             <address class="vcard">
-                <p class="org">Accessible Housing Austin!</p>
+                <p class="org" style="font-weight:bold;">Accessible Housing Austin!</p>
                 <p class="adr">
                     <span class="street-address">1640-A E. 2nd Street</span>,
                     <span class="locality">Austin</span>,

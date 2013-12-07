@@ -16,7 +16,10 @@
 		</a>
         </header>        
     </div>
-    <div class="col-md-9" style="margin-top:5em;padding-left:4em;">
+        <div class="col-md-4 col-md-offset-7" style="margin-top:1em;">
+            <gcse:searchbox-only></gcse:searchbox-only>
+        </div>
+    <div class="col-md-9" style="margin-top:2em;padding-left:4em;">
         <?php include '../templates/nav.php'; ?>
     </div>
 </div>
