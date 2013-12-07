@@ -82,6 +82,7 @@
 .skipto.focused {
 	right: 0;
 	left: auto;
+	top: -2em;
 }
 
 /* Header */
@@ -102,7 +103,6 @@ p .label {
 }
 
 /* Main Content Styles */
-
 div > h1 {
     padding-bottom:1em;
     font-size: 20pt;
@@ -130,6 +130,12 @@ body > footer {
 	text-align: center;
     padding-top:1em;
     font-family: Century Gothic,arial,sans-serif;
+}
+body > footer address {
+	background-color: #fff;
+	color: rgb(148, 54, 52);
+	font-family: "Century Gothic";
+	font-weight: bold;
 }
 body > footer p {
 	display: inline;

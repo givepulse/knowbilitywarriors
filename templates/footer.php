@@ -1,7 +1,6 @@
-<footer class="clearfix">
-    <a href="http://knowbility.org/"><img src="../images/knowbility.png" alt="Knowbility" style="width:100px; margin-top:3em;margin-bottom:1em;background-color: #000; color: #fff; border: solid #000 5px;"></a>
+<footer class="clearfix" role="contentinfo">
 	<address class="vcard">
-		<p class="org" style="margin:1em 0;">Accessible Housing Austin!</p> &#149; 
+		<p class="org" style="margin:1em 0;">Accessible Housing Austin!</p> &#149;
 		<p class="adr">
 			<span class="street-address">1640-A E. 2nd Street</span>,
 			<span class="locality">Austin</span>,
@@ -9,6 +8,7 @@
 			<span class="postal-code">78702</span>
 		</p>
 	</address>
-    <p>Last modified: December 7, 2013</p>
+	<a href="http://knowbility.org/"><img src="../images/knowbility.png" alt="Knowbility" style="background-color: #000; color: #fff; border: solid #000 5px; width: 150px; height: 40px;"></a>
+	<p style="display: block;margin-top:1em;">Last modified: December 7, 2013</p>
 </footer>
 

@@ -15,6 +15,15 @@
                 Accessible, Affordable, and Integrated Housing for
                 People with Disabilities in Austin, Texas
             </h1>
+<<<<<<< HEAD
+=======
+            <form style="text-align:center;" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" class="donate">
+                <input type="hidden" name="cmd" value="_s-xclick">
+                <input type="hidden" name="hosted_button_id" value="99VH99YEQSKE8">
+                <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" name="submit" alt="Donate via PayPal">
+                <img alt="" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+            </form>
+>>>>>>> 6b0ee0578704191d07efddc34d2ec0f7e402609c
             <aside role="complementary" aria-label="Elainna's comments">
                 <blockquote>
                     <p>

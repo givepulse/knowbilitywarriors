@@ -6,7 +6,6 @@
 <?php include '../layouts/header.php'; ?>
 
 <main id="mainContent" role="main" tabindex="-1">
-   
     <h1>Our Stories</h1>
     <p style="width:50%;">We serve a diverse range of Austinites with disabilities, including adults and children with mobility impairments, visual impairment, chronic illness, and other physical and emotional disabilities.</p>
     

@@ -32,8 +32,7 @@
 			 <li>55 &amp; older: 8%</li>
 		</ul></li>
 	</ul>
-
-	<p><a href="../ahawhitepaper.pdf"><span class="glyphicon glyphicon-book""></span> Download white paper on AHA! here.</a></p>
+	<p><a href="../ahawhitepaper.pdf"><span class="glyphicon glyphicon-book""></span>Download white paper on AHA! here. (PDF - 434 kB)</a></p>
 </main>
 
 <?php include '../templates/footer.php'; ?>
