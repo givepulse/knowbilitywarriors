@@ -13,9 +13,6 @@
 	<nav>
 		<ul>
 			<li>
-				<a href="#mainContent">Skip to Main Content</a>
-			</li>
-			<li>
 				<a href="../home/">Home</a>
 			</li>
 			<li>
