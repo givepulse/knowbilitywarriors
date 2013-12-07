@@ -36,8 +36,7 @@
             allow our children and us to participate in our neighborhoods. For AHA!, the good home is
             supported by three pillars: Accessibility, Affordability, and Integration.
         </p>
-
-        
+<?php /*       
         <div class="panel-group" id="accordion">
         <div class="panel panel-default">
             <div class="panel-heading" style="background-color:#dff0d8;">
@@ -63,6 +62,7 @@
             </div>
             </div>
         </div>
+
         <div class="panel panel-default">
             <div class="panel-heading" style="background-color:#dff0d8;">
             <h2 class="panel-title">
@@ -100,9 +100,9 @@
             </div>
         </div>
         </div>
-        
-<?php /*Below is the old code without the extra styling and js for collapse*/
-/*
+  */      
+?>
+
         <h2 class="alert alert-success">Accessibility = Dignity and Independence</h2>
         <div style="margin:0 1em;">
             <h4>Our houses include the following features that allow our tenants to live comfortably and independently in their own homes:</h4>
@@ -136,9 +136,6 @@
             and their families enjoy neighborhood block parties.
         </p>
     </div>
- * 
- * 
- */?>
 </main>
 
 <?php include '../templates/footer.php'; ?>
