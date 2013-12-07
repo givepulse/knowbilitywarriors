@@ -17,7 +17,7 @@
 	margin: 0;
 }
 a {
-	color: #226bba;
+	color: #1855a0;
 }
 
 /* first descendant link within a top level navigation item */
@@ -152,4 +152,8 @@ body > footer p {
 .label-default {
 	background-color: #990000;
 	color: #fff;
+}
+
+.text-success {
+	color: #266827;
 }
