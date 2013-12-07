@@ -16,6 +16,9 @@
 	padding: 0;
 	margin: 0;
 }
+a {
+	color: #226bba;
+}
 
 /* first descendant link within a top level navigation item */
 .nav-item > a {
@@ -144,4 +147,9 @@ body > footer p {
 .org {
     color:#943634;
     font-size:11pt;
+}
+
+.label-default {
+	background-color: #990000;
+	color: #fff;
 }
