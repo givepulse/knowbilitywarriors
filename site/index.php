@@ -7,14 +7,11 @@
 
 <main id="mainContent" role="main" tabindex="-1">
     <div>
-        <h1><abbr title="Accessible Housing Austin">AHA</abbr>! Site Map</h1>
+        <h1>Site Map</h1>
     </div>
    
 	<nav>
 		<ul>
-			<li>
-				<a href="#mainContent">Skip to Main Content</a>
-			</li>
 			<li>
 				<a href="../home/">Home</a>
 			</li>
