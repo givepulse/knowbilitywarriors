@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Site Map</title>
+<title>AHA! Site Map</title>
 <?php include '../layouts/header.php'; ?>
 
 <main id="mainContent" role="main" tabindex="-1">
