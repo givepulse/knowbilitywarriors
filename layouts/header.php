@@ -9,14 +9,14 @@
 </head>
 <body class="container">
 <div class="row">
-    <div class="col-md-2">
+    <div class="col-md-1">
         <header style="margin: 1em 0;" role="contentinfo">
 		<a href="../" title="Accessible Housing Austin! HomePage">
 			<img id="aha-logo" src="../images/aha_logo.png" alt="Accessible Housing Austin! AHA!">
 		</a>
         </header>        
     </div>
-    <div class="col-md-8" style="margin-top:5em;">
+    <div class="col-md-9" style="margin-top:5em;padding-left:4em;">
         <?php include '../templates/nav.php'; ?>
     </div>
 </div>

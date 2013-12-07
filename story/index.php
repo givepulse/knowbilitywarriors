@@ -23,15 +23,15 @@
             </aside>
         </div>
         <p>
-            With a <span class="label label-warning" style="font-size:110%;">73% unemployment rate</span>, people with disabilities are over represented in Austin’s
+            With a <span style="font-weight:bold;font-size:110%;">73% unemployment rate</span>, people with disabilities are over represented in Austin’s
             low-income population. The fair market rent for a 2-bedroom apartment in Austin is
-            <span class="label label-warning" style="font-size:110%;">$1,050</span>; yet the average person with a disability receives less than <span class="label label-warning" style="font-size:110%;">$700 per month</span> in
-            Social Security. This has resulted in a <span class="label label-danger" style="font-size:110%;">shortage of 6,000 homes</span> for low-income households
+            <span style="font-weight:bold;font-size:110%;">$1,050</span>; yet the average person with a disability receives less than <span style="font-weight:bold;font-size:110%;">$700 per month</span> in
+            Social Security. This has resulted in a <span style="font-weight:bold;font-size:110%;">shortage of 6,000 homes</span> for low-income households
             that include a person with disabilities. </p>
         <p>
         <p style="font-size:90%; font-style:italic;">Source: <a href="http://average-rent.findthedata.org/">FindtheData</a>. Average Apartment Rent,
             Refine Search terms: “787” (zip code), travis (county), Texas (state)</p>
-        <div class="alert alert-danger" style="font-size:110%;">
+        <div class="alert alert-danger" style="color:black;">
                 As housing prices rise, it is increasingly
             difficult to find homes that are affordable, accessible, and integrated into safe,
             transit-oriented, and amenity-rich neighborhoods.

@@ -11,6 +11,12 @@
     </div>
     <div class="col-md-4">
         <img src="../images/kitchen.jpg"  width="300px" class="img-rounded" alt="Accessible kitchen">
+        <form  style="margin:3em 0;" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" class="donate">
+            <input type="hidden" name="cmd" value="_s-xclick">
+            <input type="hidden" name="hosted_button_id" value="99VH99YEQSKE8">
+            <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" name="submit" alt="Donate via PayPal">
+            <img alt="" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+        </form>
     </div>
     <div class="col-md-8" style="margin-bottom:2em;">
         <aside role="complementary">
@@ -59,12 +65,6 @@
                     <span class="postal-code">78702</span>
                 </p>
             </address>
-            <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" class="donate">
-                <input type="hidden" name="cmd" value="_s-xclick">
-                <input type="hidden" name="hosted_button_id" value="99VH99YEQSKE8">
-                <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" name="submit" alt="Donate via PayPal">
-                <img alt="" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-            </form>
         </div>
     </div>
 </main>

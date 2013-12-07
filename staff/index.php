@@ -9,7 +9,7 @@
     <div>
         <h1>Board &amp; Staff</h1>
     </div>
-    <div class="clearfix">
+    <div class="clearfix" style="margin-top:3em;">
         <div class="col-md-2">
             <img src="../images/stephaniethomas.jpg" width="150px" class="img-rounded" alt="">
         </div>
@@ -23,7 +23,7 @@
             </p>
         </div>
     </div>
-    <div class="clearfix">
+    <div class="clearfix" style="margin-top:3em;">
         <div class="col-md-2">
             <img src="../images/jennifermcphail.jpg" width="150px" class="img-rounded" alt="">
         </div>
@@ -34,7 +34,7 @@
             </p>
         </div>
     </div>
-    <div class="clearfix">
+    <div class="clearfix" style="margin-top:3em;">
         <div class="col-md-2">
             <img src="../images/paulhilgers.jpg" width="150px" class="img-rounded" alt="">
         </div>
@@ -48,7 +48,7 @@
             </p>
         </div>
     </div>
-    <div class="clearfix" style="margin-top:1em;">
+    <div class="clearfix" style="margin-top:3em;">
         <div class="col-md-2">
             <img src="../images/jeanlangendorf.jpg" width="150px" class="img-rounded" alt="">
         </div>
@@ -59,7 +59,7 @@
             </p>
         </div>
     </div>
-    <div class="clearfix" style="margin-top:1em;">
+    <div class="clearfix" style="margin-top:3em;">
         <div class="col-md-2">
             <img src="../images/danacarpenter.jpg" width="150px" class="img-rounded" alt="">
         </div>
@@ -69,7 +69,7 @@
             </p>
         </div>
     </div>
-    <div class="clearfix" style="margin-top:1em;">
+    <div class="clearfix" style="margin-top:3em;">
         <div class="col-md-2">
                 <img src="../images/beccadobberfuhl.jpg" width="150px" class="img-rounded" alt="">
         </div>
@@ -83,7 +83,7 @@
             </p>
         </div>
     </div>
-    <div class="clearfix">
+    <div class="clearfix" style="margin-top:3em;">
         <div class="col-md-2">
             <img src="../images/isabelleheadrick.jpg" width="150px" class="img-rounded" alt="">
         </div>

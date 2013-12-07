@@ -20,17 +20,23 @@
             <li><a href="http://austintexas.gov/department/housing">City of Austin Neighborhood Housing and Community Development</a>
             <li><a href="http://demayoassociates.com/">De Mayo and Associates</a>
             <li><a href="https://www.fhlb.com/">Federal Home Loan Bank of Dallas</a>
-            <li><a href="https://www.frostbank.com/Pages/default.aspx">Frost Bank</a>
+            <li><a href="https://www.frostbank.com/">Frost Bank</a>
             <li><a href="http://hacanet.org/">Housing Authority of the City of Austin</a>
             <li><a href="http://www.knowbility.org/">Knowbility</a>
             <li><a href="http://www.tdhca.state.tx.us/">Texas Department of Housing and Community Affairs</a>
             <li><a href="http://www.tsahc.org/donors-investors/texas-foundations-fund">Texas Foundations Fund</a>
             <li><a href="http://www.tsahc.org/">Texas State Affordable Housing Corporation</a>
         </ul>
-        <div style="text-align: center;">
-            <img src="../images/ilivehereigivehere.png" width="170px" alt="I live here. I give here.">
-            <img src="../images/frost.png" width="170px" alt="Frost Bank">
-            <a href="http://www.tsahc.org/"><img src="../images/tsahc.jpg" width="170px" alt="TSAH - Texas State Affordable Housing Corporation"></a>
+        <div class="row" style="text-align: center;margin:3em 0;">
+            <div class="col-md-3">
+                <a href="http://www.ilivehereigivehere.org" target="_blank"><img src="../images/ilivehereigivehere.png" width="150px" alt="I live here. I give here."></a>
+            </div>
+            <div class="col-md-3">
+                <a href="https://www.frostbank.com/" target="_blank"><img src="../images/frost.png" width="150px" alt="Frost Bank"></a>
+            </div>
+            <div class="col-md-3">
+                <a href="http://www.tsahc.org/" target="_blank"><img src="../images/tsahc.jpg" width="150px" alt="TSAH - Texas State Affordable Housing Corporation"></a>
+            </div>
         </div>
      </div>
 </main>
