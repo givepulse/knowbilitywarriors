@@ -81,6 +81,7 @@
 .skipto.focused {
 	right: 0;
 	left: auto;
+	top: -2em;
 }
 
 /* Header */
@@ -89,6 +90,18 @@
 }
 
 /* Main Content Styles */
+
+body {
+	font-family: Calibri;
+	font-size: 16px;
+	line-height: 1.15em;
+}
+h1, h2, h3 {
+	background-color: #fff;
+	color: rgb(148, 54, 52);
+	font-family: "Century Gothic";
+	font-weight: bold;
+}
 
 main > img {
 	width: 300px;
@@ -100,6 +113,12 @@ blockquote {
 /* Footer Styles */
 body > footer {
 	text-align: center;
+}
+body > footer address {
+	background-color: #fff;
+	color: rgb(148, 54, 52);
+	font-family: "Century Gothic";
+	font-weight: bold;
 }
 body > footer p {
 	display: inline;
