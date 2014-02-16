@@ -16,9 +16,9 @@
 </script>
 </head>
 <body class="container" onload="fixGoogleSearch()">
-<div class="row">
-    <div class="col-md-1">
-        <header style="margin: 1em 0;" role="contentinfo">
+<div class="row" >
+    <div class="col-md-1" role="banner">
+        <header style="margin: 1em 0;">
 	        <div class="skip">
 				<a href="#mainContent">Skip to Main Content</a>
 			</div>
