@@ -7,20 +7,23 @@
 <script type="text/javascript" src="../js/html5shiv.js"></script>
 <![endif]-->
 <script type="text/javascript">
-	function fixGoogleSearchInputTitle()
+	function fixGoogleSearch()
 	{
 		document.getElementById("gsc-i-id1").title = "search terms";
 		$("form.gsc-search-box").attr("role", "presentation");
 	}
 </script>
 </head>
-<body class="container" onload="fixGoogleSearchInputTitle()">
+<body class="container" onload="fixGoogleSearch()">
 <div class="row">
     <div class="col-md-1">
         <header style="margin: 1em 0;" role="contentinfo">
-		<a href="../" title="Accessible Housing Austin! HomePage">
-			<img id="aha-logo" src="../images/aha_logo.png" alt="Accessible Housing Austin! AHA!">
-		</a>
+	        <div class="skip">
+				<a href="#mainContent">Skip to Main Content</a>
+			</div>
+			<a href="../" title="Accessible Housing Austin! HomePage">
+				<img id="aha-logo" src="../images/aha_logo.png" alt="Accessible Housing Austin! AHA!">
+			</a>
         </header>        
     </div>
         <div role="search" aria-labelledby="Search Site" class="col-md-4 col-md-offset-7" style="margin-top:1em;">

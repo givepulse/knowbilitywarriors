@@ -33,11 +33,11 @@ $(document).ready(function () {
 		$('body').removeClass('init');
 	}, 500);
 
-	$(".nav-item:first").addClass("skipto");
-	$(".nav-item:first a").focus(function() {
-		$(".nav-item:first").addClass("focused");
+	$(".skip").addClass("skipto");
+	$(".skip a").focus(function() {
+		$(".skip").addClass("focused");
 	});
-	$(".nav-item:first a").blur(function() {
-		$(".nav-item:first").removeClass("focused");
+	$(".skip a").blur(function() {
+		$(".skip").removeClass("focused");
 	});
 });
