@@ -6,8 +6,14 @@
 <!--[if lt IE 9]>
 <script type="text/javascript" src="../js/html5shiv.js"></script>
 <![endif]-->
+<script type="text/javascript">
+	function fixGoogleSearchInputTitle()
+	{
+		document.getElementById("gsc-i-id1").title = "search terms";
+	}
+</script>
 </head>
-<body class="container">
+<body class="container" onload="fixGoogleSearchInputTitle()">
 <div class="row">
     <div class="col-md-1">
         <header style="margin: 1em 0;" role="contentinfo">
