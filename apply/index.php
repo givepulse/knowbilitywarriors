@@ -11,8 +11,9 @@
     </div>
 	<p class="alert alert-warning" style="color:black"><abbr title="Accessible Housing Austin">AHA</abbr>! is currently accepting applications for our waiting list. Currently we only have 2- and 3-bedroom homes, although we are accepting applications for 1-bedroom homes for the future.</p>
 
+<p class="alert alert-info" style="color:black;text-align:left;">We serve individuals and families with disabilities under 50% of Austin’s Median Family Income</p>
 	<table class="table table-striped col-md-12">
-		<caption class="alert alert-info" style="color:black;text-align:left;">We serve individuals and families with disabilities under 50% of Austin’s Median Family Income</caption>
+		<caption style="font-size:130%;color:black;font-weight:bold;text-align:left;">Household Annual/Monthly Income</caption>
 		<thead>
 			<tr>
 				<th scope="col">Household Size</th>
