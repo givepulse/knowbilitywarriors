@@ -107,7 +107,7 @@ nav li {
 body {
     font-family: Calibri,arial,sans-serif !important;
     line-height: 1.15 !important;
-    font-size: 11pt !important;;
+    font-size: 1.3em !important;;
     letter-spacing: 1pt;
 }
 
@@ -118,17 +118,17 @@ p .label {
 /* Main Content Styles */
 div > h1 {
     padding-bottom:1em;
-    font-size: 20pt;
+    font-size: 2em;
     font-family: Century Gothic,arial,sans-serif;
 }
 
 div > h2 {
-    font-size: 16pt;
+    font-size: 1.3em;
 }
 
 main > h2 {
     font-family: Century Gothic,arial,sans-serif;
-    font-size: 16pt;
+    font-size: 1.3em;
 }
 
 main > img {
@@ -156,7 +156,7 @@ body > footer p {
 
 .org {
     color:#943634;
-    font-size:11pt;
+    font-size:1.2em;
 }
 
 .label-default {
