@@ -10,6 +10,7 @@
 	function fixGoogleSearchInputTitle()
 	{
 		document.getElementById("gsc-i-id1").title = "search terms";
+		$("form.gsc-search-box").attr("role", "presentation");
 	}
 </script>
 </head>
