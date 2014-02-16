@@ -9,8 +9,9 @@
 <script type="text/javascript">
 	function fixGoogleSearch()
 	{
-		document.getElementById("gsc-i-id1").title = "search terms";
-		$("form.gsc-search-box").attr("role", "presentation");
+		document.getElementById("gsc-i-id1").title = "search terms"; // fix for search input title
+		$("form.gsc-search-box").attr("role", "presentation"); // fix for table role
+		$("input.gsc-input").css("border-width", "3px"); // fix for high contrast
 	}
 </script>
 </head>
