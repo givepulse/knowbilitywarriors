@@ -706,7 +706,7 @@ limitations under the License.
                         });
 
                         topnavitempanel.attr({
-                            "role": "group",
+                            "role": "menubar",
                             "aria-expanded": false,
                             "aria-hidden": true
                         })
