@@ -11,7 +11,7 @@
     </div>
     <div class="col-md-4">
         <!--img src="../images/fairhousinglogo.png" width="280px" alt="Equal Housing Opportunity"-->
-        <img src="../images/elainna.jpg" width="280px" class="img-rounded" style="margin-top:2em;" alt="Young woman smiling">
+        <img src="../images/elainna.jpg" width="280px" class="img-rounded" style="margin-top:2em;" alt="">
     </div>
     <div class="col-md-8">
         <div style="margin: 2em 0;">

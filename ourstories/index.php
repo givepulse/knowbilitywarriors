@@ -28,7 +28,7 @@
     <h2>Meet Elainna</h2>
     <div class="row clearfix" style="margin-bottom:4em;">
         <div class="col-md-4">
-            <img src="../images/elainna.jpg" style="width:360px" class="img-rounded" alt="Young woman smiling">
+            <img src="../images/elainna.jpg" style="width:360px" class="img-rounded" alt="">
         </div>
         <div class="col-md-8">
             <p style="font-size:130%;">

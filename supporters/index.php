@@ -10,7 +10,7 @@
         <h1>Supporters and Partners</h1>
     </div>
     <div class="clearfix col-md-5" style="padding-left:0px;">
-        <img src="../images/volunteers.jpg" class="img-rounded" width="380px" alt="Volunteers">
+        <img src="../images/volunteers.jpg" class="img-rounded" width="380px" alt="">
     </div>
     <div class="clearfix col-md-7" style="vertical-align:middle;">
         <ul style="margin-top:1em;">
