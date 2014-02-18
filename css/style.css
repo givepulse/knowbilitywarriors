@@ -176,7 +176,7 @@ td.gsc-clear-button {
 
 /* All high contrast styling rules */
 @media screen and (-ms-high-contrast: active) {
-  .gsc-input {
-	 border: 2px solid white;
-   }
+  input.gsc-input {
+	 border: 2px solid white !important;
+  }
 }
