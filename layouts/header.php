@@ -27,8 +27,8 @@
 			</a>
         </header>        
     </div>
-        <div role="search" aria-labelledby="Search Site" class="col-md-4 col-md-offset-7" style="margin-top:1em;">
-            <label for="gsc-i-id1" style="position: absolute;left: -3000px;">Search</label><gcse:searchbox-only></gcse:searchbox-only>
+        <div role="search" class="col-md-4 col-md-offset-7" style="margin-top:1em;">
+            <label for="gsc-i-id1" style="position: absolute;left: -3000px;" aria-labelledby="gsc-i-id1">Search</label><gcse:searchbox-only></gcse:searchbox-only>
         </div>
     <div class="col-md-9" style="margin-top:2em;padding-left:4em;">
         <?php include '../templates/nav.php'; ?>
